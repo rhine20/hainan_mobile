@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ztesoft.ebiz.telecom.shanxi</string>
+				<string>com.chinatelecom.hainan.zongheyunwei</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>Realease20140828</string>
 				<key>title</key>
-				<string>陕西电信掌上装维</string>
+				<string>综合运维</string>
 			</dict>
 		</dict>
 	</array>
